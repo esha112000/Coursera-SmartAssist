@@ -24,7 +24,7 @@ To make Coursera the most inclusive learning platform, empowering neurodivergent
 ---
 
 ## 🧑‍🎨 Figma Prototype  
-👉 [Click here to view the Figma](https://www.figma.com/your-prototype-link)
+👉 [Click here to view the Figma](https://www.figma.com/proto/Y7LTavpW3braMc3j1sP6q5/Screenshot-2024-11-19-at-2.19.18%E2%80%AFPM?node-id=74-31&t=MNVSI9ixAyA9xki9-1)
 
 ---
 
