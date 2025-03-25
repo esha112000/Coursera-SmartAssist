@@ -7,25 +7,19 @@
 ---
 
 ## 🌟 Problem Statement
-Couples often struggle to find meaningful ways to plan and track their shared experiences. Existing apps lack personalization, memory logging, and itinerary planning tailored to relationships.
+Neurodivergent learners, such as those with ADHD, Autism and dyslexia, often face cognitive overload,focus difficulties, and comprehension struggles on traditional online platforms. As digital education grows, these challenges have become more pronounced, leading to frustration, disengagement, and lower course completion rates.
 
 ---
+## 💡 Our Solution – Coursera-Smart Assist
 
-## 💡 Our Solution – EverAfter
-
-EverAfter is a personalized date planning companion app for couples. It helps you:
-- Plan memorable dates using AI-suggested itineraries
-- Log and revisit memories with photos & notes
-- Explore nearby romantic spots or events
-- Track relationship milestones
+To make Coursera the most inclusive learning platform, empowering neurodivergent learners—such as those with ADHD, dyslexia, and autism—to thrive through accessible, personalized education, free from cognitive barriers.
 
 ---
 
 ## 🎯 Key Features
-- Personalized date suggestions using AI
-- Timeline view of past memories
-- Budget tracker for dates
-- Shared wishlist & calendar sync
+- Fash Cards
+- Display Felxibility
+- Relaxation moments
 
 ---
 
@@ -55,7 +49,7 @@ EverAfter is a personalized date planning companion app for couples. It helps yo
 ---
 
 ## 🚀 Outcome
-- Finalist in [Hackathon Name] (Top X/XXX teams)
+- Finalist in Protothon (Product Hackathon) (Top 4/80 teams)
 - Received praise for user-centric design & originality
 - Working on launching a v1 with a dev team
 
