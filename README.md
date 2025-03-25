@@ -28,51 +28,23 @@ To make Coursera the most inclusive learning platform, empowering neurodivergent
 
 ---
 
-## 🖼️ Screenshots  
-| Home | Timeline | Plan a Date |
-|------|----------|--------------|
-| ![](assets/home.png) | ![](assets/timeline.png) | ![](assets/plan_date.png) |
-
----
-
-## 🧾 Pitch Deck  
-📥 [Download the Pitch Deck (PDF)](pitch-deck/EverAfter_PitchDeck.pdf)
-
----
-
-## 📄 Documentation  
-- [Product Requirements Document](docs/PRD.md)
-- [User Persona](docs/UserPersona.md)
-- [Roadmap](docs/Roadmap.md)
-- [Retrospective & Learnings](docs/Learnings.md)
-
----
-
 ## 🚀 Outcome
 - Finalist in Protothon (Product Hackathon) (Top 4/80 teams)
 - Received praise for user-centric design & originality
-- Working on launching a v1 with a dev team
+- Voter's Choice Award
 
 ---
 
 ## 🛠️ Tools & Tech
 - Figma (Design)
-- Google Slides (Pitch)
-- ChatGPT (Ideation)
+- Canva (Pitch)
 - Notion (Planning)
 
 ---
 
 ## 🙌 Contributors
 - **You (PM & Designer)**
-- [@dev1](https://github.com/dev1) – Frontend
-- [@dev2](https://github.com/dev2) – Backend
+- [@priyankbagad](https://github.com/priyankbagad) 
 
----
 
-## 💭 What's Next?
-We’re planning to:
-- Build an MVP with React Native
-- Add LLM integration for personalized itineraries
-- Launch beta testing with real couples 💕
 
